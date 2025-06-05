@@ -19,4 +19,13 @@ In this we start coding in c programing language. We cover basic to advance proj
   31. Factor of a Number
   32. Take a number n as input, separate its digits, print them in reverse order, and also print the sum of the digits.
   33. Take a number n as input and print the reverse of the number
-            
+  33. Check if a Number is Palindrome
+  34. Check Armstrong Number
+  35. Check Strong Number
+  36. Check Special Number
+  37. Repeat "Shery" Until 'n' is Entered
+  38.  Right Triangle Star Pattern
+  39. Inverted Right Triangle Star Pattern
+  40. Mirror Right Triangle Star Pattern
+  41. V Star Pattern
+  42.  X Star Pattern        
